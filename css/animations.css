@@ -1,0 +1,91 @@
+.animate__animated.animate__backInDown {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__backInLeft {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__bounceInDown {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__bounceInUp {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__bounceInLeft {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__bounceInRight {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__zoomInDown {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__flip {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__flipInY {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__slideInLeft {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__slideInRight {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__slideInUp {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__backInUp {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__fadeIn {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__fadeInBottomLeft {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__fadeInBottomRight {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__rollIn {
+    --animate-duration: 2s;
+}
+
+.animate__animated.animate__jackInTheBox {
+    --animate-duration: 2s;
+}
+
+#item-1 {
+    animation-duration: 1s;
+    animation-delay: 0s;
+}
+
+#item-2 {
+    animation-duration: 1s;
+    animation-delay: 0.5s;
+}
+
+#item-3 {
+    animation-duration: 1s;
+    animation-delay: 1s;
+}
+
+#item-4 {
+    animation-duration: 1s;
+    animation-delay: 1.5s;
+}
